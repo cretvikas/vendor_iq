@@ -1,0 +1,4 @@
+BANK ACCOUNT CONFIRMATION
+BANK ACCOUNT HOLDER: Aarav Industrial Supplies Private Limited
+BANK ROUTING CODE: HDFC0001234
+NOTE: This sample does not contain a real account number or real banking evidence.

@@ -1,0 +1,8 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "PyYAML"
+version = "6.0.3"
+description = "Pure Python YAML stub (no C extension)"
